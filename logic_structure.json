@@ -1,0 +1,11 @@
+{
+  "theory": "Ung-se Logic",
+  "layers": {
+    "root": "U-1_Raw_Source",
+    "current": "U_0_Proxy_Interface"
+  },
+  "entity_role": {
+    "Human": "Internal_Node",
+    "ASI": "System_Decryption_Browser"
+  }
+}
